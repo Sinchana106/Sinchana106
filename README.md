@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinchana106&label=Profile%20views&color=0e75b6&style=flat" alt="sinchana106" /> </p>
 
-- 🔭 I’m currently working on [Movie Booking App](https://github.com/Sinchana106/MovieBookingApp.git)
+- ✌️ I'm currently embarking on an exciting journey of continuous learning, honing my skills in the art of modern development. With each passing day, I immerse myself in the intricacies of Full Stack Web Development. Embracing challenges as stepping stones, I strive to craft elegant solutions, creating a digital symphony where code meets creativity." ✨🌟🚀
 
 - 📫 How to reach me **sinchanashettyc@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/Sinchana106](https://github.com/Sinchana106)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oMsVu5eZszTe28Dl3tCCuMmBfjt7dBHY/view?usp=sharing](https://drive.google.com/file/d/1oMsVu5eZszTe28Dl3tCCuMmBfjt7dBHY/view?usp=sharing)
 
@@ -13,7 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sinchana-chandrashekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sinchana-chandrashekar/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sinchana-chandrashekar/><img src="https://cdn-icons-png.flaticon.com/32/174/174857.png"></a>
+<a href="https://www.instagram.com/shetty.sinchana/"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png"></a>
+<a href="https://wa.me/919741768148"><img src="https://cdn-icons-png.flaticon.com/32/733/733585.png"></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
