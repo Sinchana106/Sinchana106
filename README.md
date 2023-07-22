@@ -15,8 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sinchana-chandrashekar/><img src="https://cdn-icons-png.flaticon.com/32/174/174857.png"></a>
-<a href="https://www.instagram.com/shetty.sinchana/"><img src="https://cdn-icons-png.flaticon.com/32/2111/2111463.png"></a>
-<a href="https://wa.me/919741768148"><img src="https://cdn-icons-png.flaticon.com/32/733/733585.png"></a>
 
 </p>
 
