@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I can often be found talking to my code like it's a sentient being, cheering it on when it works and offering apologies when it doesn't! 🤖💬"**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/sinchana-chandrashekar/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857?k=1690023732665&sign-up=google" alt="https://www.linkedin.com/in/sinchana-chandrashekar/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/sinchana-chandrashekar/"><img src="https://cdn-icons-png.flaticon.com/32/174/174857.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
