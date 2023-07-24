@@ -10,7 +10,7 @@
  creating a digital symphony where code meets creativity." ✨🌟🚀<br>
 <br>📫 How to reach me sinchanashettyc@gmail.com<br>
 <br>👨‍💻 All of my projects are available at [https://github.com/Sinchana106](https://github.com/Sinchana106?tab=repositories)<br>
-<br>📄 Know about my experiences https://drive.google.com/file/d/1oMsVu5eZszTe28Dl3tCCuMmBfjt7dBHY/view?usp=sharing<br><br>
+<br>📄 Know about my experiences [https://drive.google.com/file/d/1oMsVu5eZszTe28Dl3tCCuMmBfjt7dBHY/view?usp=sharing](https://drive.google.com/file/d/1rLXP3H9ECPWNouAQFGCrrsix3hqAWHMF/view?usp=sharing)<br><br>
 ⚡ Fun fact **I can often be found talking to my code like it's a sentient being, cheering it on when it works and offering apologies when it doesn't! 🤖💬"**
 
 <h3 align="left">Connect with me:</h3>
